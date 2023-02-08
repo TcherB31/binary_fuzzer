@@ -6,3 +6,4 @@ First of all, install radamsa and unpack the input.tar.xz file, to do this, writ
 For using write this command:
 
     ./bin_fuzz <target_elf_binary> <target_input_txt_file>
+![image](https://user-images.githubusercontent.com/108927927/217611912-83c8a77a-6659-4c48-8285-bbd7c07bbe42.png)
